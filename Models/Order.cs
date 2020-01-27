@@ -10,5 +10,11 @@ namespace TRPTools.Models
         public User UserID { get; set; }
 
         public int OrderID { get; set; }
+
+        public IList<CupType> CupType { get; set; }
+
+        public IList<Glitter> Glitter { get; set; }
+
+
     }
 }
