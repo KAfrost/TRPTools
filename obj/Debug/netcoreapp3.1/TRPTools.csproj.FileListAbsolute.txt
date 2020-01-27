@@ -33,3 +33,5 @@ C:\Users\Dev\lc101\TRPTools\TRPTools\TRPTools\obj\Debug\netcoreapp3.1\TRPTools.V
 C:\Users\Dev\lc101\TRPTools\TRPTools\TRPTools\obj\Debug\netcoreapp3.1\TRPTools.dll
 C:\Users\Dev\lc101\TRPTools\TRPTools\TRPTools\obj\Debug\netcoreapp3.1\TRPTools.pdb
 C:\Users\Dev\lc101\TRPTools\TRPTools\TRPTools\obj\Debug\netcoreapp3.1\TRPTools.csproj.CopyComplete
+C:\Users\Dev\lc101\TRPTools\TRPTools\TRPTools\obj\Debug\netcoreapp3.1\Razor\Views\SignUp\Index.cshtml.g.cs
+C:\Users\Dev\lc101\TRPTools\TRPTools\TRPTools\obj\Debug\netcoreapp3.1\Razor\Views\SignUp\Add.cshtml.g.cs
